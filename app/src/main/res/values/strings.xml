@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">Quwi</string>
+    <string name="email" translatable="false">email</string>
+    <string name="password">password</string>
+    <string name="you">You:</string>
+    <string name="no_messages">No messages</string>
+    <string name="logout">Logout</string>
+    <string name="login">Login</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="password">пароль</string>
+    <string name="you">Вы:</string>
+    <string name="no_messages">Нет сообщений</string>
+    <string name="logout">Выйти</string>
+    <string name="login">Войти</string>
+</resources>
